@@ -1,0 +1,4 @@
+{
+    "model_list_gsm8k": ["gpt35", "qwen15_7b", "mistral_7b", "glm4_9b", "llama3_8b"],
+    "model_list": ["gpt4o","gpt4","gpt35","qwen","glm4","claude"]
+}

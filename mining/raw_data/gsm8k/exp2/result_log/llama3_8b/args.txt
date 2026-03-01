@@ -1,0 +1,1 @@
+['examples/ToT/gsm8k/inference.py', '--base_lm', 'hf', '--n_action', '2', '--temperature', '0.95', '--depth_limit', '3', '--total_states', '10', '--max_per_state', '3', '--search_algo', 'dfs', '--log_dir', '/root/autodl-tmp/data/jt_ws/gsm8k/dfs/new_llama3_exp/', '--tree_info_path', '/root/autodl-tmp/data/jt_ws/gsm8k/dfs/new_llama3_exp/llama3_8b_200-human.jsonl']

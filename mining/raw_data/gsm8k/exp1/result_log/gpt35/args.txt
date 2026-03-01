@@ -1,0 +1,1 @@
+['examples/ToT/gsm8k/inference.py', '--base_lm', 'gpt-3.5-turbo', '--n_action', '4', '--temperature', '0.8', '--depth_limit', '4', '--beam_size', '1', '--search_algo', 'beam', '--reward_aggregator', 'mean', '--log_dir', 'logs/gsm8k/gpt35_500', '--tree_info_path', '/home/jt_ws/llm-reasoners/jt_ws/gsm8k/gpt35_500-human.jsonl']

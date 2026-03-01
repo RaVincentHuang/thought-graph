@@ -1,0 +1,1 @@
+['examples/ToT/game24/inference.py', '--base_lm', 'qwen-max-latest', '--log_dir', '/root/autodl-tmp/codes/llm-reasoners/jt_ws/game24/dfs/qwen/log', '--depth_limit', '4', '--total_states', '20', '--max_per_state', '3', '--search_algo', 'dfs', '--tree_info_path', '/root/autodl-tmp/codes/llm-reasoners/jt_ws/game24/dfs/qwen/qwen.jsonl']

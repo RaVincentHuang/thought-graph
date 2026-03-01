@@ -1,0 +1,1 @@
+['examples/ToT/game24/inference.py', '--base_lm', 'claude-3-5-sonnet-20240620', '--log_dir', '/root/autodl-tmp/codes/llm-reasoners/jt_ws/game24/dfs/claude/log', '--depth_limit', '4', '--total_states', '20', '--max_per_state', '3', '--search_algo', 'dfs', '--tree_info_path', '/root/autodl-tmp/codes/llm-reasoners/jt_ws/game24/dfs/claude/claude.jsonl']

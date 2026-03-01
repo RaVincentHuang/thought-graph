@@ -1,0 +1,42 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "gsm8k _train",
+  "dataset_size": 3963202,
+  "description": "",
+  "download_checksums": {
+    "/data/coding/gsm8k _train/train-00000-of-00001.parquet": {
+      "num_bytes": 2306545,
+      "checksum": null
+    }
+  },
+  "download_size": 2306545,
+  "features": {
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 6269747,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 3963202,
+      "num_examples": 7473,
+      "dataset_name": "gsm8k _train"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

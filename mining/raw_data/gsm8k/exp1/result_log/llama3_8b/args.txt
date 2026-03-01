@@ -1,0 +1,1 @@
+['examples/ToT/gsm8k/inference.py', '--base_lm', 'llama-3-8b-instruct', '--n_action', '4', '--temperature', '0.95', '--depth_limit', '4', '--beam_size', '1', '--search_algo', 'beam', '--reward_aggregator', 'mean', '--log_dir', 'logs/gsm8k/llama3_8b_200', '--tree_info_path', '/root/autodl-tmp/codes/llm-reasoners/jt_ws/gsm8k/llama3_8b_200-human.jsonl']

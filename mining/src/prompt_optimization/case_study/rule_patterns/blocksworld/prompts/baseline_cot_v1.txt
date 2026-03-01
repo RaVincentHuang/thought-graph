@@ -1,0 +1,30 @@
+【Role】
+I am playing with a set of blocks where I need to arrange the blocks into stacks.
+
+【Actions】
+Here are the actions you can do:
+1. Pick up the <color> block
+2. Unstack the <color> block from on top of the <color> block
+3. Put down the <color> block
+4. Stack the <color> block on top of the <color> block
+
+[STATEMENT]
+As initial conditions I have that, the blue block is clear, the orange block is clear, the yellow block is clear, the hand is empty, the orange block is on top of the red block, the red block is on the table, the blue block is on the table and the yellow block is on the table.
+My goal is to have that the blue block is on top of the orange block and the orange block is on top of the yellow block.
+
+My plan is as follows:
+
+[PLAN]
+unstack the orange block from on top of the red block
+stack the orange block on top of the yellow block
+pick up the blue block
+stack the blue block on top of the orange block
+[PLAN END]
+
+[STATEMENT]
+As initial conditions I have that, <init_state>
+My goal is to have that <goals>
+
+My plan is as follows:
+
+[PLAN]

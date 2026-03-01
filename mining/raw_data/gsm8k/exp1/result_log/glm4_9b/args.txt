@@ -1,0 +1,1 @@
+['examples/ToT/gsm8k/inference.py', '--base_lm', 'glm-4-9b', '--n_action', '4', '--temperature', '0.95', '--depth_limit', '4', '--beam_size', '1', '--search_algo', 'beam', '--reward_aggregator', 'mean', '--log_dir', 'logs/gsm8k/glm4_9b_200', '--tree_info_path', '/home/jt_ws/llm-reasoners/jt_ws/gsm8k/glm4_9b_200-human.jsonl']

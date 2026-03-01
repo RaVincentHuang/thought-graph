@@ -1,0 +1,17 @@
+【Rules】
+[1] Break complex problems into ordered sub-problems, ensure each calculation has a clear purpose and logical connection, use all relevant conditions, and verify the reasonableness of results.
+[2] Clearly show all calculation steps with proper units, use mathematical notation for unknowns, and provide a summary statement before the final answer.
+[3] Avoid introducing irrelevant information or assumptions, don't confuse the problem topic, and never skip intermediate reasoning steps.
+[4] Don't ignore key conditions or unit conversions in the problem, maintain logical coherence in calculations, and avoid unfounded values or reasoning.
+
+Question: Aleena subscribed to a streaming service that charges her $140 per month. If the streaming company charged her the initial amount for the first half of the year and then charged her 10% less money on the other half of the year, calculate the total amount she had paid for the streaming service by the end of the year.
+Answer: 
+<sub_question_1>
+How much did Aleena pay for the streaming service for the first half of the year? Aleena paid $140 per month for the streaming service, so for the first half of the year (6 months), she paid 140 * 6 = $840. The answer is 840.
+<sub_question_2>
+How much less did Aleena pay for the streaming service for the second half of the year compared to the first half? For the second half of the year, Aleena paid 10% less than she did for the first half. This means she paid 10% of $840 less, which is $840 * 0.10 = $84 less. The answer is 84.
+<Answer>
+Now we can answer the question: If the streaming company charged her the initial amount for the first half of the year and then charged her 10% less money on the other half of the year, calculate the total amount she had paid for the streaming service by the end of the year. Since Aleena paid $840 for the first half of the year and $84 less for the second half of the year, the total amount she paid for the streaming service by the end of the year is $840 + ($840 - $84) = $1,596. So the answer is 1,596.
+
+Question: {QUESTION}
+Answer:

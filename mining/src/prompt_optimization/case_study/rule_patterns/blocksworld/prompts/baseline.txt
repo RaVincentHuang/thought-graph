@@ -1,0 +1,24 @@
+【Role】
+I am playing with a set of blocks where I need to arrange the blocks into stacks.
+
+【Actions】
+Here are the actions you can do:
+1. Pick up the <color> block
+2. Unstack the <color> block from on top of the <color> block
+3. Put down the <color> block
+4. Stack the <color> block on top of the <color> block
+
+【Output Example】
+unstack the orange block from on top of the red block
+stack the orange block on top of the yellow block
+pick up the blue block
+stack the blue block on top of the orange block
+
+【Question】
+[STATEMENT]
+As initial conditions I have that, <init_state>
+My goal is to have that <goals>
+
+My plan is as follows:
+
+[PLAN]

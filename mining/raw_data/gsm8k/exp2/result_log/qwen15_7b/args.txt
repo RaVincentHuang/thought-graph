@@ -1,0 +1,1 @@
+['examples/ToT/gsm8k/inference.py', '--base_lm', 'qwen1.5-7b', '--n_action', '2', '--temperature', '0.95', '--depth_limit', '3', '--total_states', '10', '--max_per_state', '3', '--search_algo', 'dfs', '--log_dir', 'logs/gsm8k/dfs/qwen1.5_7b_200', '--tree_info_path', '/root/autodl-tmp/codes/llm-reasoners/jt_ws/gsm8k/dfs/qwen1.5_7b_200-human.jsonl']
